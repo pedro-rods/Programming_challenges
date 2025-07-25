@@ -1,3 +1,8 @@
+/*
+ * LeetCode Problem 3307: Find the K-th Character in String Game II
+ * link: https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/?envType=daily-question
+ */
+
 public class StringGameII {
     public static void main(String[] args) {
         long k = 33354182522397L;
